@@ -1,0 +1,6 @@
+{
+  "name": "Medication Error Reporting System (v0.4)",
+  "description": "Production-ready hospital Medication Error Reporting System with 20-field clinical form, RBAC, HOSxP Smart Import staging, D1 SQLite schema, and Google Sheets & Drive export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
